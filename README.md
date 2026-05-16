@@ -54,14 +54,11 @@ suggesting it identifies the *agent* of the action rather than just tracking nam
 ---
 
 ## Repo Structure
-
-```
 gpt2-pronoun-circuit/
 │
 ├── pronoun_circuit_analysis.py   # Full analysis code (copy into Colab)
 ├── alignment_forum_post.md       # Write-up of findings
-└── README.md                     # This file
-```
+└── README.md
 
 ---
 
@@ -135,7 +132,7 @@ entirely. Used to confirm causal importance and test circuit redundancy.
 
 ## Write-up
 
-Full findings posted on the Alignment Forum: [link]
+Full findings posted on the Alignment Forum: [paste your link here after publishing]
 
 ---
 
